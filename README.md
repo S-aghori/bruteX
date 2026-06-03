@@ -30,7 +30,8 @@ SSH Brute Force → FTP Brute Force → HTTP Login Brute Force → JSON Report
 ## 📸 Screenshots
 
 ### 1. Full BruteX Running — All 3 Phases
-![BruteX Running](screenshots/Full_brutex_py_running.png)
+<img width="665" height="333" alt="Full brutex py running" src="https://github.com/user-attachments/assets/ff0b867a-0748-4933-8473-663c2f7e2be3" />
+
 
 ### 2. SSH Cracked
 ![SSH Cracked](screenshots/SSH_cracked.png)
