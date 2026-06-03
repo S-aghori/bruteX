@@ -30,7 +30,7 @@ SSH Brute Force → FTP Brute Force → HTTP Login Brute Force → JSON Report
 ## 📸 Screenshots
 
 ### 1. Full BruteX Running — All 3 Phases
-
+![BruteX Running](screenshots/Full_brutex_py_running.png)
 
 ### 2. SSH Cracked
 ![SSH Cracked](screenshots/SSH_cracked.png)
@@ -43,7 +43,6 @@ SSH Brute Force → FTP Brute Force → HTTP Login Brute Force → JSON Report
 
 ### 5. JSON Report Output
 ![Report](screenshots/Report_JSON.png)
-
 ---
 
 ## 🛠️ Project Structure
