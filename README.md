@@ -211,13 +211,13 @@ Phase 4 → Report         Professional output
 ## 📁 Related Projects
 
 - 🔗 Project 2 — NetScanner: [github.com/S-aghori/netscanner](https://github.com/S-aghori/netscanner)
-- 🔗 Medium write-up: Coming soon
-- 🔗 LinkedIn: S-aghori
+- 🔗 Medium write-up: (https://medium.com/@shivkadarbar350)
+- 🔗 LinkedIn: (https://www.linkedin.com/in/shivam-singh-sengar2001 )
 
 ---
 
 ## 👤 Author
-
+Shivam Singh Sengar
 **S-aghori** — Cybersecurity student preparing for OSCP
 Building projects in public to document the journey.
 
