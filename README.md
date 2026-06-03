@@ -30,19 +30,24 @@ SSH Brute Force → FTP Brute Force → HTTP Login Brute Force → JSON Report
 ## 📸 Screenshots
 
 ### 1. Full BruteX Running — All 3 Phases
-![BruteX Running](screenshots/Full_brutex_py_running.png)
+<img width="665" height="333" alt="Full brutex py running" src="https://github.com/user-attachments/assets/ed16f3a6-3646-475b-b764-69ae3b5d6c5e" />
+
 
 ### 2. SSH Cracked
-![SSH Cracked](screenshots/SSH_cracked.png)
+<img width="787" height="746" alt="SSH cracked" src="https://github.com/user-attachments/assets/bf61db16-e207-4188-af2d-9f377d055526" />
+
 
 ### 3. Final Summary — 3 Services Cracked
-![Final Summary](screenshots/Final_summary.png)
+<img width="644" height="196" alt="Final summary" src="https://github.com/user-attachments/assets/4992107f-a252-4256-9ca9-b82b67fe5741" />
+
 
 ### 4. Cracked Credentials File
-![Credentials](screenshots/Credentials_file.png)
+<img width="406" height="325" alt="Credentials file" src="https://github.com/user-attachments/assets/6ba7a8c4-79b4-4aaa-9e6c-15084f1d7bd8" />
+
 
 ### 5. JSON Report Output
-![Report](screenshots/Report_JSON.png)
+<img width="400" height="485" alt="Report JSON" src="https://github.com/user-attachments/assets/02005e80-cc1a-49ec-9fbf-63454f3f025f" />
+
 ---
 
 ## 🛠️ Project Structure
